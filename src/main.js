@@ -76,7 +76,7 @@ function btn(index) {
 
     cdata+=`
     <div class="text-center mx-auto">
-    My Cart
+    
             <div class="border-2 space-y-1 border-[#f59e0b] py-3 flex justify-between px-2">
             <div class="text-[16px] font-semibold">${coutPro.title}</div>
             <div class="text-red-500 text-[16px] font-semibold">${coutPro.price}</div> 
